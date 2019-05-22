@@ -1,5 +1,4 @@
-<img src="regular.png" alt="octopus logo" width="80">
-# Octopus
+<img src="regular.png" alt="octopus logo" width="80"> OCTOPUS
 
 Octopus is a feature-rich minimalistic code editor for the [JustBasic](justbasic.com) language.
 

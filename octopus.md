@@ -2,9 +2,13 @@
 
 Octopus is a feature-rich minimalistic code editor for the [JustBasic](http://www.justbasic.com/) language.
 
-:loudspeaker: Version 1.10 is now available below!
+Version 1.10 is now available below!
 
-- [Download Now](https://github.com/servusDei2018/servusdei2018.github.io/raw/master/octopus_v1_1_0.zip) (155.7 KB zipped)
+Version | Download Link
+--------|--------------
+v1.00   |[Download Now](https://github.com/servusDei2018/servusdei2018.github.io/raw/master/Octopus_v1_0_0.zip) (155.7 KB zipped)
+v1.10   |[Download Now](https://github.com/servusDei2018/servusdei2018.github.io/raw/master/octopus_v1_1_0.zip) (155.7 KB zipped)
+
 
 ## Compatibility
 

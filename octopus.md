@@ -2,7 +2,9 @@
 
 Octopus is a feature-rich minimalistic code editor for the [JustBasic](http://www.justbasic.com/) language.
 
-- [Download Now](https://github.com/servusDei2018/servusdei2018.github.io/raw/master/Octopus_v1_0_0.zip) (155 KB zipped)
+:loudspeaker: Version 1.10 is now available below!
+
+- [Download Now](https://github.com/servusDei2018/servusdei2018.github.io/raw/master/octopus_v1_1_0.zip) (155.7 KB zipped)
 
 ## Compatibility
 
@@ -18,12 +20,10 @@ Octopus is available for all 32- or 64-bit Windows 7/8.1/10 platforms.
 
 - [X] Syntax coloring
 - [X] Code autocompletion via drop-down box
-- [X] Edit menu with Cut, Paste, Copy, Undo, and Redo.
+- [X] Edit menu with Cut, Paste, Copy, Undo, Redo, and Select All.
+- [X] Ethereal Mode -- semi-transparent window, useful for working on small screens by overlaying the editor over something else.
 
 ### Upcoming Features
 
-- [ ] Edit > Select All
 - [ ] Themes (currently, there's a Dark Theme)
-- [ ] View menu
-- [ ] View > Ethereal Mode (window is semi-transparent) useful for working on smaller displays
 - [ ] Code beautification (intelligent indenting)

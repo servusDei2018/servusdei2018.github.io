@@ -3,6 +3,7 @@ $(window).load(function(){
 	$('.container').fadeIn('fast');
 });
 $('document').ready(function(){
+		/*
 		var vw;
 		$(window).resize(function(){
 			 vw = $(window).width()/2;
@@ -15,6 +16,7 @@ $('document').ready(function(){
 			$('#b66').animate({top:240, left: vw+150},500);
 			$('#b77').animate({top:240, left: vw+250},500);
 		});
+		*/
 
 	$('#turn_on').click(function(){
 		$('#bulb_yellow').addClass('bulb-glow-yellow');
@@ -104,8 +106,10 @@ $('document').ready(function(){
 
 	$('#balloons_flying').click(function(){
 		$('.balloon-border').animate({top:-500},8000);
+		/*
 		$('#b1,#b4,#b5,#b7').addClass('balloons-rotate-behaviour-one');
 		$('#b2,#b3,#b6').addClass('balloons-rotate-behaviour-two');
+		*/
 		// $('#b3').addClass('balloons-rotate-behaviour-two');
 		// $('#b4').addClass('balloons-rotate-behaviour-one');
 		// $('#b5').addClass('balloons-rotate-behaviour-one');
@@ -142,6 +146,7 @@ $('document').ready(function(){
 	$('#wish_message').click(function(){
 		 vw = $(window).width()/2;
 
+		/*
 		$('#b1,#b2,#b3,#b4,#b5,#b6,#b7').stop();
 		$('#b1').attr('id','b11');
 		$('#b2').attr('id','b22')
@@ -157,6 +162,7 @@ $('document').ready(function(){
 		$('#b55').animate({top:240, left: vw+50},500);
 		$('#b66').animate({top:240, left: vw+150},500);
 		$('#b77').animate({top:240, left: vw+250},500);
+		*/
 		$('.balloons').css('opacity','0.9');
 		$('.balloons h2').fadeIn(3000);
 		$(this).fadeOut('slow').delay(3000).promise().done(function(){
